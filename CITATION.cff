@@ -4,6 +4,13 @@ authors:
   - family-names: Kolat
     given-names: Mate
     orcid: https://orcid.org/0000-0002-8434-6169
+  - family-names: Tettamanti
+    given-names: Tamas
+  - family-names: Becsi
+    given-names: Tamas
+  - family-names: Esztergar-Kiss
+    given-names: Domokos
 title: "Poi and Road Traffic"
 version: 1.0.0
 date-released: 2023-08-31
+url: "https://github.com/bmetrafficlab/poiandroadtraffic.git"
